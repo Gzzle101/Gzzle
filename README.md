@@ -1,1 +1,1 @@
-Hi there, I'm Princely a software engineer specialized in full stack development. Excellent in building web applications with Angular & Node.js. Very experienced with backend development(C#), and .Net enthusiast with all levels of development cycle for dynamic web projects. Strong background in project management and customer relations.
+
