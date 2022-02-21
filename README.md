@@ -17,5 +17,5 @@ PROJECT BUILT ON C#
 -built and deployed a hospital management app using Web Forms.
 
 WHAT I DO FOR FUN?
--iCode for fun -play videogames -Chess -I also love dedugging
+-iCode for fun -play videogames -Chess -I also love debugging
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzzle101&show_icons=true&theme=radical)
