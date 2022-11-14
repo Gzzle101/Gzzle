@@ -1,0 +1,41 @@
+C:\Users\Prince\Desktop\EmpApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Prince\Desktop\EmpApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Prince\Desktop\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.exe
+C:\Users\Prince\Desktop\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.deps.json
+C:\Users\Prince\Desktop\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.runtimeconfig.json
+C:\Users\Prince\Desktop\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.runtimeconfig.dev.json
+C:\Users\Prince\Desktop\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.dll
+C:\Users\Prince\Desktop\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.pdb
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.AssemblyInfoInputs.cache
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.AssemblyInfo.cs
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\staticwebassets\EmpApp.StaticWebAssets.Manifest.cache
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\staticwebassets\EmpApp.StaticWebAssets.xml
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmpApp.styles.css
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.RazorTargetAssemblyInfo.cache
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.dll
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.pdb
+C:\Users\Prince\Desktop\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.genruntimeconfig.cache
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.StaticWebAssets.xml
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.exe
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.deps.json
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.runtimeconfig.json
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.runtimeconfig.dev.json
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.dll
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\bin\Debug\netcoreapp3.1\EmpApp.pdb
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.csproj.AssemblyReference.cache
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.AssemblyInfoInputs.cache
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.AssemblyInfo.cs
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.csproj.CoreCompileInputs.cache
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\staticwebassets\EmpApp.StaticWebAssets.Manifest.cache
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.RazorTargetAssemblyInfo.cache
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.dll
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.pdb
+C:\Users\NGESON COMPUTERS\Desktop\projects\EmpApp\obj\Debug\netcoreapp3.1\EmpApp.genruntimeconfig.cache
